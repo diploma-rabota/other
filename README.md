@@ -33,3 +33,7 @@
 
 ## Fake delivery service
 Фейковый сервис доставки 
+
+
+# НАХЕРАЧИЛ ДИЗАЙН
+https://www.figma.com/make/yw2lJCtEkMdxYqogusYWrC/B2B-Platform?node-id=0-1&p=f
