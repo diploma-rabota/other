@@ -37,3 +37,7 @@
 
 # НАХЕРАЧИЛ ДИЗАЙН
 https://www.figma.com/make/yw2lJCtEkMdxYqogusYWrC/B2B-Platform?node-id=0-1&p=f
+
+
+# ДОСКА 
+https://alexg4466.atlassian.net/jira/software/projects/DIP/boards/2
